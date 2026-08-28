@@ -2,7 +2,7 @@
 
 Um painel web intuitivo e funcional para criação, gerenciamento, organização e filtragem de lembretes diários. O projeto foi desenvolvido como aplicação de página única (*Single Page Application*), priorizando a experiência do usuário e a persistência dos dados no próprio navegador.
 
-🔗 **Acesse a aplicação online:** [https://viniciussendoski.github.io/Web_I_Lembretes/](https://viniciussendoski.github.io/Web_I_Lembretes/)
+🔗 **Acesse a aplicação online:** Davidskury/Meus_Lembretes.git
 
 ---
 
