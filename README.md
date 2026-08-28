@@ -40,3 +40,4 @@ Um painel web intuitivo e funcional para criação, gerenciamento, organização
 - **GitHub Pages:** Hospedagem e *deploy* contínuo da aplicação.
 
 ---
+---O site está online em https://davidskury.github.io/Meus_Lembretes/
