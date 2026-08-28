@@ -40,9 +40,3 @@ Um painel web intuitivo e funcional para criação, gerenciamento, organização
 - **GitHub Pages:** Hospedagem e *deploy* contínuo da aplicação.
 
 ---
-
-## 💻 Como Rodar o Projeto Localmente
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/ViniciusSendoski/Web_I_Lembretes.git](https://github.com/ViniciusSendoski/Web_I_Lembretes.git)
